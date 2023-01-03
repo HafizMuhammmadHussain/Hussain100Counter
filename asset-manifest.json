@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HafizMuhammmadHussain/Hussain100Counter.git/static/css/main.7096fd7a.css",
+    "main.js": "/HafizMuhammmadHussain/Hussain100Counter.git/static/js/main.138a580c.js",
+    "static/js/787.2f6f62fa.chunk.js": "/HafizMuhammmadHussain/Hussain100Counter.git/static/js/787.2f6f62fa.chunk.js",
+    "index.html": "/HafizMuhammmadHussain/Hussain100Counter.git/index.html",
+    "main.7096fd7a.css.map": "/HafizMuhammmadHussain/Hussain100Counter.git/static/css/main.7096fd7a.css.map",
+    "main.138a580c.js.map": "/HafizMuhammmadHussain/Hussain100Counter.git/static/js/main.138a580c.js.map",
+    "787.2f6f62fa.chunk.js.map": "/HafizMuhammmadHussain/Hussain100Counter.git/static/js/787.2f6f62fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7096fd7a.css",
+    "static/js/main.138a580c.js"
+  ]
+}
